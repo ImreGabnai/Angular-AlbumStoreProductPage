@@ -10,7 +10,7 @@ import { ProductDescriptionComponent } from './product-description.component';
     declarations: [ ProductDescriptionComponent ],
     bootstrap:    [ ProductDescriptionComponent ],
     imports: [ RouterModule, CommonModule, FormsModule ],
-    exports: [ ProductDescriptionComponent],
+    exports: [ ProductDescriptionComponent]
     // schemas: [ CUSTOM_ELEMENTS_SCHEMA ]
 })
 export class ProductDescriptionModule { }
