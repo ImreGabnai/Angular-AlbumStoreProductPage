@@ -5,6 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './product-page.component.html',
   styleUrls: ['./product-page.component.css']
 })
+
 export class ProductPageComponent implements OnInit {
 
   constructor() { }
@@ -13,3 +14,4 @@ export class ProductPageComponent implements OnInit {
   }
 
 }
+
